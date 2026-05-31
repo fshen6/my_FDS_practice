@@ -12,67 +12,67 @@ How to update this checklist:
 
 ## Week 1 Learning Outcomes
 
-- [ ] I can explain what this portfolio is meant to prove: modelling workflow, technical reasoning, data processing, QA discipline, and consultancy-style reporting.
-- [ ] I can explain what this portfolio is not: a certified fire engineering design, compliance submission, safety approval, or real-world decision tool.
-- [ ] I can distinguish the roles of GitHub repository, final PDF portfolio, and public website.
-- [ ] I can write limitation and disclaimer wording without overclaiming professional authority.
-- [ ] I can separate UK-specific guidance, international/US guidance, industrial/insurance practice, tool documentation, and general engineering references.
-- [ ] I can explain why UK and international standards should not be mixed without clear labelling and context.
-- [ ] I can describe the purpose of assumptions registers, design fire registers, risk registers, model logs, QA checklists, and report templates.
-- [ ] I can record software versions and setup details so future reports are traceable.
-- [ ] I can explain why numerical post-processing is needed in addition to Smokeview screenshots.
-- [ ] I can run a basic weekly review: what was created, what changed, what is blocked, and what comes next.
+- [x ] I can explain what this portfolio is meant to prove: modelling workflow, technical reasoning, data processing, QA discipline, and consultancy-style reporting.
+- [x ] I can explain what this portfolio is not: a certified fire engineering design, compliance submission, safety approval, or real-world decision tool.
+- [x ] I can distinguish the roles of GitHub repository, final PDF portfolio, and public website.
+- [x ] I can write limitation and disclaimer wording without overclaiming professional authority.
+- [x ] I can separate UK-specific guidance, international/US guidance, industrial/insurance practice, tool documentation, and general engineering references.
+- [x ] I can explain why UK and international standards should not be mixed without clear labelling and context.
+- [x ] I can describe the purpose of assumptions registers, design fire registers, risk registers, model logs, QA checklists, and report templates.
+- [x ] I can record software versions and setup details so future reports are traceable.
+- [x ] I can explain why numerical post-processing is needed in addition to Smokeview screenshots.
+- [x ] I can run a basic weekly review: what was created, what changed, what is blocked, and what comes next.
 
 ## Day 1 - Project Brief and Repository Skeleton
 
 Learning points:
 
-- [ ] Understand what a professional public portfolio should demonstrate.
-- [ ] Understand the difference between learning evidence and certified professional work.
-- [ ] Understand how GitHub, PDF output, and website output support different audiences.
-- [ ] Understand why public disclaimers and limitation statements are needed.
+- [x ] Understand what a professional public portfolio should demonstrate.
+- [x ] Understand the difference between learning evidence and certified professional work.
+- [x ] Understand how GitHub, PDF output, and website output support different audiences.
+- [x ] Understand why public disclaimers and limitation statements are needed.
 
 Practical tasks:
 
-- [ ] Create or confirm the local repository workspace.
-- [ ] Create or plan the top-level project files:
-  - [ ] `README.md`
-  - [ ] `portfolio_plan.md`
-  - [ ] `disclaimer.md`
-  - [ ] `learning_log.md`
-  - [ ] `skills_matrix.md`
-  - [ ] `standards_map.md`
-  - [ ] `references.md`
-  - [ ] `.gitignore`
-- [ ] Write the first project-purpose paragraph for `README.md`.
-- [ ] Confirm the repository opens locally.
-- [ ] Confirm the public disclaimer file exists or is queued for creation.
+- [x ] Create or confirm the local repository workspace.
+- [x ] Create or plan the top-level project files:
+  - [x ] `README.md`
+  - [x ] `portfolio_plan.md`
+  - [x ] `disclaimer.md`
+  - [x ] `learning_log.md`
+  - [x ] `skills_matrix.md`
+  - [x ] `standards_map.md`
+  - [x ] `references.md`
+  - [x ] `.gitignore`
+- [x ] Write the first project-purpose paragraph for `README.md`.
+- [x ] Confirm the repository opens locally.
+- [x ] Confirm the public disclaimer file exists or is queued for creation.
 
 Day 1 exit check:
 
-- [ ] I can explain the project purpose in one short paragraph.
-- [ ] I can state clearly that the work is educational and non-certified.
+- [x ] I can explain the project purpose in one short paragraph.
+- [x ] I can state clearly that the work is educational and non-certified.
 
 ## Day 2 - Standards Map and Knowledge Base Structure
 
 Learning points:
 
-- [ ] Understand UK vs international standards separation.
-- [ ] Understand Approved Document B as England-specific building fire safety guidance.
-- [ ] Understand the difference between statutory guidance, British Standards, NFPA-style practice, industrial guidance, and modelling documentation.
-- [ ] Understand why references should be labelled before being used in reports.
+- [x ] Understand UK vs international standards separation.
+- [x ] Understand Approved Document B as England-specific building fire safety guidance.
+- [x ] Understand the difference between statutory guidance, British Standards, NFPA-style practice, industrial guidance, and modelling documentation.
+- [x ] Understand why references should be labelled before being used in reports.
 
 Practical tasks:
 
-- [ ] Create or update `standards_map.md`.
-- [ ] Create or plan the `01_knowledge_base/` structure.
-- [ ] Add standards/reference labels:
-  - [ ] `[UK]`
-  - [ ] `[International / US]`
-  - [ ] `[International / industrial]`
-  - [ ] `[Tool / model]`
-  - [ ] `[General engineering]`
-- [ ] Add a written rule not to mix UK and international standards without explanation.
+- [x] Create or update `standards_map.md`.
+- [x] Create or plan the `01_knowledge_base/` structure.
+- [x ] Add standards/reference labels:
+  - [x ] `[UK]`
+  - [x ] `[International / US]`
+  - [x ] `[International / industrial]`
+  - [x ] `[Tool / model]`
+  - [x ] `[General engineering]`
+- [x ] Add a written rule not to mix UK and international standards without explanation.
 
 Day 2 exit check:
 
